@@ -1,9 +1,9 @@
-<h1 align="center">Hi , I'm Jay Sanghani</h1>
+<h1 align="center">Hi 👋, I'm Jay Sanghani</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-- 🔭 I’m currently working on **Happy home decor**
+- 🌱 I’m currently learning **React JS**
 
-- 🌱 I’m currently learning **React**
+- 🔭 I’m currently working on **Happy home decor**
 
 - 👨‍💻 React Project is [Dharati Engineering](dharatiengineering.in)
 
