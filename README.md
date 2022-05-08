@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jay Sanghani</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-- 🌱 I’m currently learning **React JS**
-
 - 🔭 I’m currently working on **Happy home decor**
 
-- 👨‍💻 React Project is [Dharati Engineering](dharatiengineering.in)
+- 🌱 I’m currently learning **React**
 
-- 👨‍💻 PHP Project is [Shree bapa sitaram Marketing](shreebapasitarammarketing.com)
+- 👨‍💻 React Project is [Dharati Engineering](www.dharatiengineering.in)
+
+- 👨‍💻 PHP Project is [Shree bapa sitaram Marketing](www.shreebapasitarammarketing.com)
 
 - 💬 Ask me about **Web Development Issue**
 
@@ -27,6 +27,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaysanghani0513&show_icons=true&locale=en&layout=compact" alt="jaysanghani0513" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaysanghani0513&show_icons=true&locale=en" alt="jaysanghani0513" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaysanghani0513&show_icons=true&theme=dark&locale=en" alt="jaysanghani0513" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaysanghani0513&" alt="jaysanghani0513" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaysanghani0513&theme=dark" alt="jaysanghani0513" /></p>
