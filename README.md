@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 React Project is [Dharati Engineering](www.dharatiengineering.in)
+- 👨‍💻 React Project is [www.dharatiengineering.in]
 
-- 👨‍💻 PHP Project is [Shree bapa sitaram Marketing](www.shreebapasitarammarketing.com)
+- 👨‍💻 PHP Project is (www.shreebapasitarammarketing.com]
 
 - 💬 Ask me about **Web Development Issue**
 
